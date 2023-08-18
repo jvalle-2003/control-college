@@ -1,0 +1,19 @@
+{
+  "name": "control-college",
+  "version": "1.0.0",
+  "description": "Llevar el control y administración de un colegio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvalle-2003/control-college.git"
+  },
+  "author": "Josue Valle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jvalle-2003/control-college/issues"
+  },
+  "homepage": "https://github.com/jvalle-2003/control-college#readme"
+}
